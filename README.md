@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Charles%20Cheng-Data%20Analyst-blue
+![https://img.shields.io/badge/Charles%20Cheng-Data%20Analyst-blue]
 ### Hi there 👋, I am Zhenyu Cheng
 
 <!--
