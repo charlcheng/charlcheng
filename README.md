@@ -1,4 +1,5 @@
-### Hi there 👋
+https://img.shields.io/badge/Charles%20Cheng-Data%20Analyst-blue
+### Hi there 👋, I am Zhenyu Cheng
 
 <!--
 **charlcheng/charlcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
